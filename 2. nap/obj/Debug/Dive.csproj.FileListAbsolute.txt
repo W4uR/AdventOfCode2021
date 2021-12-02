@@ -1,0 +1,7 @@
+D:\Projects\Advent of Code\Dive\bin\Debug\Dive.exe.config
+D:\Projects\Advent of Code\Dive\bin\Debug\Dive.exe
+D:\Projects\Advent of Code\Dive\bin\Debug\Dive.pdb
+D:\Projects\Advent of Code\Dive\obj\Debug\Dive.csproj.AssemblyReference.cache
+D:\Projects\Advent of Code\Dive\obj\Debug\Dive.csproj.CoreCompileInputs.cache
+D:\Projects\Advent of Code\Dive\obj\Debug\Dive.exe
+D:\Projects\Advent of Code\Dive\obj\Debug\Dive.pdb

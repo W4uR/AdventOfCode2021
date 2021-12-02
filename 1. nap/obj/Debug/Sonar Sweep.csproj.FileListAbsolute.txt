@@ -1,0 +1,7 @@
+D:\Projects\Advent of Code\Sonar Sweep\bin\Debug\Sonar Sweep.exe.config
+D:\Projects\Advent of Code\Sonar Sweep\bin\Debug\Sonar Sweep.exe
+D:\Projects\Advent of Code\Sonar Sweep\bin\Debug\Sonar Sweep.pdb
+D:\Projects\Advent of Code\Sonar Sweep\obj\Debug\Sonar Sweep.csproj.AssemblyReference.cache
+D:\Projects\Advent of Code\Sonar Sweep\obj\Debug\Sonar Sweep.csproj.CoreCompileInputs.cache
+D:\Projects\Advent of Code\Sonar Sweep\obj\Debug\Sonar Sweep.exe
+D:\Projects\Advent of Code\Sonar Sweep\obj\Debug\Sonar Sweep.pdb
