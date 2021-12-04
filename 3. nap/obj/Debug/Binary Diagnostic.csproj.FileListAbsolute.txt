@@ -1,0 +1,7 @@
+D:\Projects\Advent of Code\Binary Diagnostic\bin\Debug\Binary Diagnostic.exe.config
+D:\Projects\Advent of Code\Binary Diagnostic\bin\Debug\Binary Diagnostic.exe
+D:\Projects\Advent of Code\Binary Diagnostic\bin\Debug\Binary Diagnostic.pdb
+D:\Projects\Advent of Code\Binary Diagnostic\obj\Debug\Binary Diagnostic.csproj.AssemblyReference.cache
+D:\Projects\Advent of Code\Binary Diagnostic\obj\Debug\Binary Diagnostic.csproj.CoreCompileInputs.cache
+D:\Projects\Advent of Code\Binary Diagnostic\obj\Debug\Binary Diagnostic.exe
+D:\Projects\Advent of Code\Binary Diagnostic\obj\Debug\Binary Diagnostic.pdb
