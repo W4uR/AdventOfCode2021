@@ -1,0 +1,7 @@
+D:\Projects\Advent of Code\Lanternfish\bin\Debug\Lanternfish.exe.config
+D:\Projects\Advent of Code\Lanternfish\bin\Debug\Lanternfish.exe
+D:\Projects\Advent of Code\Lanternfish\bin\Debug\Lanternfish.pdb
+D:\Projects\Advent of Code\Lanternfish\obj\Debug\Lanternfish.csproj.AssemblyReference.cache
+D:\Projects\Advent of Code\Lanternfish\obj\Debug\Lanternfish.csproj.CoreCompileInputs.cache
+D:\Projects\Advent of Code\Lanternfish\obj\Debug\Lanternfish.exe
+D:\Projects\Advent of Code\Lanternfish\obj\Debug\Lanternfish.pdb

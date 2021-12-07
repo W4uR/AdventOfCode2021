@@ -1,0 +1,7 @@
+D:\Projects\Advent of Code\Giant Squid\bin\Debug\Giant Squid.exe.config
+D:\Projects\Advent of Code\Giant Squid\bin\Debug\Giant Squid.exe
+D:\Projects\Advent of Code\Giant Squid\bin\Debug\Giant Squid.pdb
+D:\Projects\Advent of Code\Giant Squid\obj\Debug\Giant Squid.csproj.AssemblyReference.cache
+D:\Projects\Advent of Code\Giant Squid\obj\Debug\Giant Squid.csproj.CoreCompileInputs.cache
+D:\Projects\Advent of Code\Giant Squid\obj\Debug\Giant Squid.exe
+D:\Projects\Advent of Code\Giant Squid\obj\Debug\Giant Squid.pdb

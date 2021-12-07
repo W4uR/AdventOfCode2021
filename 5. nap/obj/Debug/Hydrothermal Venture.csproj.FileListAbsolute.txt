@@ -1,0 +1,7 @@
+D:\Projects\Advent of Code\Hydrothermal Venture\bin\Debug\Hydrothermal Venture.exe.config
+D:\Projects\Advent of Code\Hydrothermal Venture\bin\Debug\Hydrothermal Venture.exe
+D:\Projects\Advent of Code\Hydrothermal Venture\bin\Debug\Hydrothermal Venture.pdb
+D:\Projects\Advent of Code\Hydrothermal Venture\obj\Debug\Hydrothermal Venture.csproj.AssemblyReference.cache
+D:\Projects\Advent of Code\Hydrothermal Venture\obj\Debug\Hydrothermal Venture.csproj.CoreCompileInputs.cache
+D:\Projects\Advent of Code\Hydrothermal Venture\obj\Debug\Hydrothermal Venture.exe
+D:\Projects\Advent of Code\Hydrothermal Venture\obj\Debug\Hydrothermal Venture.pdb
