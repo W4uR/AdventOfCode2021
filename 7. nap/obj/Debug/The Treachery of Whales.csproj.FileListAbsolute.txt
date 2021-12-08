@@ -1,0 +1,7 @@
+D:\Projects\Advent of Code\The Treachery of Whales\bin\Debug\The Treachery of Whales.exe.config
+D:\Projects\Advent of Code\The Treachery of Whales\bin\Debug\The Treachery of Whales.exe
+D:\Projects\Advent of Code\The Treachery of Whales\bin\Debug\The Treachery of Whales.pdb
+D:\Projects\Advent of Code\The Treachery of Whales\obj\Debug\The Treachery of Whales.csproj.AssemblyReference.cache
+D:\Projects\Advent of Code\The Treachery of Whales\obj\Debug\The Treachery of Whales.csproj.CoreCompileInputs.cache
+D:\Projects\Advent of Code\The Treachery of Whales\obj\Debug\The Treachery of Whales.exe
+D:\Projects\Advent of Code\The Treachery of Whales\obj\Debug\The Treachery of Whales.pdb
