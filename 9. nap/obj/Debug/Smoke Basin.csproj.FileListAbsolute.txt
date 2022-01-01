@@ -1,0 +1,7 @@
+D:\Projects\Advent of Code\Smoke Basin\bin\Debug\Smoke Basin.exe.config
+D:\Projects\Advent of Code\Smoke Basin\bin\Debug\Smoke Basin.exe
+D:\Projects\Advent of Code\Smoke Basin\bin\Debug\Smoke Basin.pdb
+D:\Projects\Advent of Code\Smoke Basin\obj\Debug\Smoke Basin.csproj.AssemblyReference.cache
+D:\Projects\Advent of Code\Smoke Basin\obj\Debug\Smoke Basin.csproj.CoreCompileInputs.cache
+D:\Projects\Advent of Code\Smoke Basin\obj\Debug\Smoke Basin.exe
+D:\Projects\Advent of Code\Smoke Basin\obj\Debug\Smoke Basin.pdb

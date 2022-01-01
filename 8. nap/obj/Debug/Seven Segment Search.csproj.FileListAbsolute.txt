@@ -1,0 +1,7 @@
+D:\Projects\Advent of Code\Seven Segment Search\bin\Debug\Seven Segment Search.exe.config
+D:\Projects\Advent of Code\Seven Segment Search\bin\Debug\Seven Segment Search.exe
+D:\Projects\Advent of Code\Seven Segment Search\bin\Debug\Seven Segment Search.pdb
+D:\Projects\Advent of Code\Seven Segment Search\obj\Debug\Seven Segment Search.csproj.AssemblyReference.cache
+D:\Projects\Advent of Code\Seven Segment Search\obj\Debug\Seven Segment Search.csproj.CoreCompileInputs.cache
+D:\Projects\Advent of Code\Seven Segment Search\obj\Debug\Seven Segment Search.exe
+D:\Projects\Advent of Code\Seven Segment Search\obj\Debug\Seven Segment Search.pdb
